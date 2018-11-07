@@ -1,0 +1,400 @@
+1 get_bal 14
+2 send 6 19 974
+3 send 1 37 463
+4 get_bal 36
+5 send 2 45 203
+6 send 30 35 959
+7 get_bal 23
+8 send 48 15 825
+9 send 17 39 355
+10 get_bal 45
+11 send 2 24 30
+12 send 6 24 767
+13 get_bal 21
+14 send 6 24 317
+15 send 35 28 150
+16 send 1 12 175
+17 send 35 27 548
+18 get_bal 3
+19 get_bal 10
+20 send 47 38 647
+21 send 44 37 664
+22 send 46 35 988
+23 send 9 37 549
+24 send 38 12 382
+25 send 47 2 785
+26 send 13 28 337
+27 send 30 11 866
+28 send 35 16 314
+29 get_bal 31
+30 get_bal 35
+31 get_bal 39
+32 get_bal 19
+33 send 12 14 284
+34 get_bal 46
+35 get_bal 40
+36 get_bal 20
+37 send 21 6 976
+38 get_bal 31
+39 get_bal 24
+40 send 28 5 911
+41 get_bal 48
+42 get_bal 29
+43 get_bal 17
+44 send 8 23 177
+45 get_bal 10
+46 send 22 4 753
+47 send 16 29 844
+48 send 48 11 335
+49 send 11 35 343
+50 get_bal 6
+51 send 2 43 399
+52 get_bal 30
+53 send 22 21 613
+54 send 42 48 558
+55 get_bal 11
+56 send 43 49 994
+57 send 23 10 277
+58 get_bal 3
+59 get_bal 50
+60 get_bal 45
+61 send 41 11 521
+62 get_bal 13
+63 get_bal 42
+64 send 33 26 252
+65 get_bal 44
+66 send 35 26 871
+67 send 22 20 546
+68 send 26 34 353
+69 get_bal 47
+70 get_bal 13
+71 send 27 25 968
+72 get_bal 47
+73 get_bal 34
+74 send 48 33 315
+75 send 30 27 674
+76 send 5 41 868
+77 send 46 10 764
+78 send 28 48 142
+79 send 45 19 171
+80 get_bal 44
+81 send 48 19 640
+82 get_bal 33
+83 get_bal 49
+84 get_bal 26
+85 send 42 30 562
+86 send 25 33 627
+87 get_bal 17
+88 get_bal 11
+89 get_bal 39
+90 get_bal 8
+91 send 15 14 647
+92 send 22 50 981
+93 send 45 20 669
+94 send 13 21 155
+95 send 5 28 719
+96 get_bal 5
+97 send 2 9 149
+98 get_bal 29
+99 send 28 33 825
+100 send 32 49 541
+101 send 36 33 651
+102 send 12 19 799
+103 send 40 8 340
+104 send 4 11 384
+105 send 8 41 412
+106 get_bal 45
+107 get_bal 47
+108 send 35 47 267
+109 get_bal 24
+110 send 42 11 471
+111 send 29 42 952
+112 get_bal 27
+113 send 31 2 386
+114 send 38 24 974
+115 get_bal 1
+116 send 15 9 19
+117 send 23 14 840
+118 get_bal 26
+119 get_bal 14
+120 send 31 32 489
+121 send 43 11 440
+122 send 32 18 931
+123 get_bal 40
+124 send 8 9 312
+125 get_bal 43
+126 send 6 8 809
+127 send 28 35 923
+128 get_bal 8
+129 send 14 48 150
+130 get_bal 28
+131 get_bal 17
+132 send 47 23 953
+133 get_bal 33
+134 get_bal 32
+135 get_bal 49
+136 send 31 28 813
+137 send 38 34 933
+138 get_bal 22
+139 get_bal 36
+140 get_bal 26
+141 get_bal 7
+142 send 22 37 748
+143 get_bal 6
+144 send 1 46 785
+145 get_bal 30
+146 get_bal 38
+147 get_bal 13
+148 get_bal 49
+149 send 12 29 209
+150 send 5 29 760
+151 get_bal 48
+152 send 39 31 227
+153 send 19 6 613
+154 send 31 24 356
+155 send 6 7 152
+156 send 36 23 242
+157 get_bal 7
+158 send 6 37 229
+159 send 23 4 619
+160 send 10 16 349
+161 send 40 48 202
+162 get_bal 22
+163 send 37 29 995
+164 get_bal 35
+165 send 29 3 650
+166 get_bal 20
+167 send 2 34 115
+168 get_bal 3
+169 send 28 17 856
+170 get_bal 25
+171 get_bal 21
+172 get_bal 47
+173 send 11 7 326
+174 send 22 18 284
+175 send 34 9 961
+176 get_bal 47
+177 send 17 38 666
+178 get_bal 4
+179 get_bal 20
+180 get_bal 33
+181 send 15 27 596
+182 send 8 22 515
+183 send 22 42 311
+184 get_bal 39
+185 send 17 6 216
+186 send 21 37 242
+187 get_bal 26
+188 get_bal 50
+189 send 9 33 808
+190 get_bal 18
+191 send 41 31 907
+192 get_bal 2
+193 get_bal 33
+194 get_bal 17
+195 get_bal 39
+196 send 50 29 804
+197 send 34 42 446
+198 get_bal 27
+199 get_bal 6
+200 send 1 40 119
+201 send 43 34 30
+202 send 39 38 215
+203 get_bal 42
+204 send 30 7 294
+205 get_bal 11
+206 send 26 44 665
+207 get_bal 26
+208 send 46 11 99
+209 send 13 1 307
+210 send 50 45 670
+211 get_bal 23
+212 get_bal 33
+213 send 10 34 738
+214 send 7 13 317
+215 get_bal 7
+216 send 41 39 861
+217 send 5 13 87
+218 send 37 41 722
+219 get_bal 49
+220 send 5 32 476
+221 get_bal 43
+222 send 16 28 355
+223 get_bal 25
+224 send 20 30 830
+225 send 22 27 735
+226 send 40 34 84
+227 get_bal 2
+228 get_bal 5
+229 send 24 30 174
+230 send 23 47 850
+231 send 15 8 458
+232 send 21 38 85
+233 send 47 48 755
+234 get_bal 11
+235 get_bal 41
+236 send 49 44 315
+237 get_bal 44
+238 send 49 10 490
+239 get_bal 3
+240 send 38 8 592
+241 get_bal 18
+242 get_bal 38
+243 send 26 12 366
+244 send 3 49 438
+245 send 10 35 83
+246 get_bal 45
+247 send 11 47 491
+248 get_bal 11
+249 get_bal 21
+250 send 6 48 268
+251 send 25 21 259
+252 get_bal 13
+253 send 39 36 948
+254 get_bal 35
+255 send 16 19 300
+256 get_bal 12
+257 get_bal 20
+258 send 42 41 54
+259 send 37 12 858
+260 get_bal 13
+261 send 21 48 709
+262 get_bal 33
+263 send 36 40 350
+264 send 34 19 997
+265 get_bal 26
+266 send 14 23 291
+267 send 14 15 194
+268 send 33 32 722
+269 send 8 3 146
+270 get_bal 39
+271 get_bal 8
+272 get_bal 47
+273 send 47 13 539
+274 send 2 6 957
+275 get_bal 23
+276 get_bal 12
+277 get_bal 24
+278 get_bal 42
+279 send 20 8 626
+280 get_bal 30
+281 get_bal 9
+282 get_bal 30
+283 send 3 14 652
+284 send 36 26 61
+285 get_bal 17
+286 send 26 24 335
+287 send 31 12 599
+288 get_bal 38
+289 get_bal 43
+290 send 20 37 205
+291 send 32 29 560
+292 send 35 5 386
+293 send 9 11 694
+294 get_bal 26
+295 send 42 22 156
+296 send 8 42 778
+297 send 12 31 783
+298 send 25 4 768
+299 send 39 49 4
+300 get_bal 25
+301 get_bal 17
+302 send 38 46 479
+303 get_bal 22
+304 get_bal 33
+305 get_bal 9
+306 get_bal 23
+307 send 5 9 656
+308 send 9 2 229
+309 send 43 4 714
+310 send 43 26 201
+311 send 9 22 594
+312 get_bal 30
+313 send 36 18 197
+314 send 29 10 428
+315 get_bal 33
+316 get_bal 5
+317 get_bal 23
+318 get_bal 46
+319 get_bal 20
+320 send 17 42 378
+321 get_bal 44
+322 get_bal 26
+323 send 24 37 404
+324 get_bal 31
+325 send 6 45 40
+326 send 17 11 926
+327 send 42 14 310
+328 get_bal 36
+329 send 40 29 972
+330 send 8 16 35
+331 get_bal 6
+332 send 18 39 479
+333 send 39 5 954
+334 send 22 10 835
+335 get_bal 44
+336 get_bal 39
+337 send 6 43 616
+338 get_bal 24
+339 send 25 7 18
+340 send 1 50 367
+341 get_bal 44
+342 get_bal 50
+343 send 10 44 748
+344 get_bal 38
+345 get_bal 43
+346 send 3 10 588
+347 get_bal 18
+348 get_bal 41
+349 get_bal 27
+350 get_bal 36
+351 get_bal 18
+352 send 39 33 245
+353 get_bal 25
+354 get_bal 18
+355 get_bal 26
+356 send 37 15 122
+357 get_bal 32
+358 send 15 7 97
+359 get_bal 30
+360 send 13 41 23
+361 send 47 37 382
+362 send 36 38 857
+363 send 26 31 195
+364 get_bal 41
+365 get_bal 37
+366 send 17 49 338
+367 get_bal 27
+368 send 11 32 11
+369 send 11 29 629
+370 send 47 48 152
+371 get_bal 46
+372 send 34 42 950
+373 get_bal 15
+374 get_bal 35
+375 send 49 15 587
+376 send 35 9 652
+377 send 18 44 144
+378 get_bal 24
+379 send 34 22 867
+380 get_bal 6
+381 send 19 21 98
+382 get_bal 22
+383 get_bal 23
+384 send 18 46 213
+385 send 49 42 175
+386 send 36 46 241
+387 send 7 37 284
+388 get_bal 39
+389 send 13 21 848
+390 get_bal 17
+391 get_bal 27
+392 send 8 14 398
+393 get_bal 39
+394 get_bal 29
+395 send 21 39 173
+396 send 32 44 490
+397 send 50 23 290
+398 send 5 14 665
+399 send 7 4 761
+400 get_bal 14

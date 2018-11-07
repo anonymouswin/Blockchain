@@ -1,0 +1,36 @@
+
+Time Taken By Miner Threads:
+THREAD 0 = 1398 microseconds
+THREAD 1 = 1420 microseconds
+THREAD 2 = 1382 microseconds
+THREAD 3 = 1361 microseconds
+THREAD 4 = 1353 microseconds
+THREAD 5 = 1321 microseconds
+THREAD 6 = 1308 microseconds
+THREAD 7 = 1287 microseconds
+THREAD 8 = 1324 microseconds
+THREAD 9 = 1283 microseconds
+
+Time Taken By Validator Threads:
+THREAD 0 = 477 microseconds
+THREAD 1 = 310 microseconds
+THREAD 2 = 455 microseconds
+THREAD 3 = 445 microseconds
+THREAD 4 = 221 microseconds
+THREAD 5 = 396 microseconds
+THREAD 6 = 383 microseconds
+THREAD 7 = 356 microseconds
+THREAD 8 = 340 microseconds
+THREAD 9 = 313 microseconds
+
+[ # Shared Objects = 50 ]
+[ # Threads = 10 ]
+[ # Total AUs = 400 ]
+[ # Total Aborts = 81 ]
+
+
+
+Average Time Taken by a Miner     Thread        = 1343.7 microseconds
+Average Time Taken by a Validator Thread        = 369.6 microseconds
+
+Total Average Time (Miner + Validator)  = 1713.3 microseconds

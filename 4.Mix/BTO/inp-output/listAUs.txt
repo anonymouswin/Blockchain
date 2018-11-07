@@ -1,0 +1,400 @@
+1 get_bal 2
+2 withdraw 8
+3 send 4 8 390
+4 delegate 11 2
+5 auction_end
+6 withdraw 17
+7 send 5 7 55
+8 bid 539 16 304
+9 get_bal 3
+10 vote 7 3
+11 withdraw 7
+12 bid 997 11 969
+13 send 8 4 157
+14 auction_end
+15 delegate 6 10
+16 send 8 6 288
+17 withdraw 2
+18 send 10 1 422
+19 withdraw 6
+20 send 4 3 694
+21 auction_end
+22 get_bal 4
+23 vote 16 2
+24 auction_end
+25 get_bal 4
+26 auction_end
+27 auction_end
+28 send 8 6 15
+29 vote 5 1
+30 withdraw 12
+31 send 1 2 970
+32 vote 17 2
+33 send 7 2 757
+34 vote 4 3
+35 auction_end
+36 delegate 12 7
+37 send 10 5 185
+38 vote 10 2
+39 withdraw 11
+40 send 1 5 299
+41 vote 11 2
+42 auction_end
+43 get_bal 2
+44 vote 15 3
+45 auction_end
+46 send 1 4 392
+47 withdraw 1
+48 get_bal 5
+49 vote 13 3
+50 auction_end
+51 get_bal 2
+52 bid 22 1 871
+53 get_bal 10
+54 delegate 17 2
+55 send 7 3 247
+56 delegate 9 1
+57 send 4 9 914
+58 send 3 9 92
+59 delegate 3 8
+60 bid 566 13 65
+61 send 4 7 749
+62 bid 254 6 928
+63 get_bal 8
+64 delegate 14 11
+65 withdraw 7
+66 send 1 8 784
+67 delegate 3 12
+68 vote 4 2
+69 send 1 9 684
+70 get_bal 7
+71 auction_end
+72 get_bal 2
+73 delegate 18 7
+74 auction_end
+75 get_bal 10
+76 auction_end
+77 delegate 7 12
+78 withdraw 5
+79 get_bal 6
+80 vote 10 2
+81 get_bal 3
+82 send 5 7 387
+83 vote 4 2
+84 withdraw 6
+85 send 9 10 704
+86 delegate 2 18
+87 withdraw 3
+88 send 9 10 209
+89 vote 17 1
+90 send 8 1 366
+91 delegate 16 1
+92 withdraw 18
+93 get_bal 4
+94 bid 903 3 998
+95 get_bal 4
+96 auction_end
+97 get_bal 10
+98 bid 743 7 604
+99 send 5 3 509
+100 send 2 7 317
+101 withdraw 14
+102 send 6 8 165
+103 bid 983 12 676
+104 get_bal 9
+105 vote 12 3
+106 withdraw 8
+107 get_bal 8
+108 delegate 7 5
+109 get_bal 6
+110 send 7 4 60
+111 withdraw 3
+112 send 6 3 799
+113 get_bal 5
+114 send 9 8 528
+115 vote 6 3
+116 bid 837 3 199
+117 send 7 6 725
+118 vote 19 1
+119 get_bal 5
+120 send 6 4 678
+121 vote 12 2
+122 withdraw 17
+123 delegate 17 14
+124 send 7 2 950
+125 delegate 2 8
+126 auction_end
+127 send 9 8 507
+128 vote 13 2
+129 get_bal 1
+130 vote 16 1
+131 bid 335 2 144
+132 send 9 10 350
+133 bid 597 13 101
+134 bid 121 3 69
+135 delegate 2 16
+136 send 9 3 673
+137 withdraw 12
+138 get_bal 7
+139 vote 3 1
+140 auction_end
+141 delegate 2 10
+142 auction_end
+143 get_bal 4
+144 send 7 4 437
+145 vote 17 1
+146 send 6 7 794
+147 bid 806 2 846
+148 send 10 5 460
+149 delegate 20 14
+150 get_bal 10
+151 auction_end
+152 get_bal 6
+153 send 5 9 647
+154 withdraw 8
+155 get_bal 5
+156 vote 6 3
+157 withdraw 6
+158 vote 14 3
+159 withdraw 15
+160 send 3 10 249
+161 delegate 13 2
+162 withdraw 13
+163 send 8 2 934
+164 send 10 2 349
+165 delegate 20 8
+166 auction_end
+167 send 9 2 432
+168 vote 20 1
+169 get_bal 3
+170 delegate 8 17
+171 get_bal 1
+172 auction_end
+173 delegate 1 6
+174 vote 5 1
+175 auction_end
+176 send 5 9 988
+177 auction_end
+178 vote 16 1
+179 withdraw 2
+180 send 3 5 438
+181 withdraw 2
+182 get_bal 4
+183 withdraw 11
+184 send 8 2 140
+185 delegate 14 6
+186 delegate 11 2
+187 auction_end
+188 get_bal 8
+189 withdraw 1
+190 get_bal 6
+191 withdraw 2
+192 get_bal 3
+193 vote 18 2
+194 bid 152 15 2
+195 bid 105 7 594
+196 vote 4 1
+197 send 6 8 150
+198 vote 17 1
+199 send 3 2 408
+200 vote 20 2
+201 auction_end
+202 send 5 4 144
+203 get_bal 8
+204 vote 9 3
+205 delegate 3 4
+206 withdraw 19
+207 get_bal 6
+208 vote 9 2
+209 withdraw 20
+210 send 3 8 966
+211 bid 814 18 847
+212 get_bal 1
+213 auction_end
+214 send 6 1 754
+215 bid 557 5 621
+216 auction_end
+217 get_bal 7
+218 vote 15 2
+219 auction_end
+220 get_bal 2
+221 delegate 20 5
+222 get_bal 2
+223 get_bal 9
+224 delegate 6 4
+225 send 8 9 556
+226 delegate 17 19
+227 bid 414 6 956
+228 withdraw 18
+229 get_bal 7
+230 withdraw 6
+231 send 7 2 455
+232 vote 8 1
+233 send 6 3 261
+234 bid 739 8 278
+235 get_bal 9
+236 withdraw 20
+237 vote 9 1
+238 auction_end
+239 bid 843 20 985
+240 send 5 9 255
+241 vote 2 1
+242 auction_end
+243 send 10 3 309
+244 vote 3 2
+245 withdraw 9
+246 get_bal 6
+247 bid 881 10 567
+248 get_bal 3
+249 delegate 4 2
+250 get_bal 2
+251 get_bal 6
+252 auction_end
+253 get_bal 10
+254 delegate 12 7
+255 withdraw 1
+256 vote 7 1
+257 auction_end
+258 get_bal 10
+259 auction_end
+260 send 9 8 344
+261 send 9 1 790
+262 delegate 4 2
+263 send 6 3 69
+264 vote 5 2
+265 get_bal 1
+266 bid 858 8 598
+267 send 4 1 916
+268 bid 837 19 358
+269 vote 6 3
+270 get_bal 1
+271 get_bal 1
+272 bid 83 6 267
+273 vote 4 2
+274 send 9 1 220
+275 delegate 6 7
+276 get_bal 2
+277 auction_end
+278 send 6 1 807
+279 withdraw 3
+280 send 1 9 951
+281 get_bal 6
+282 delegate 4 18
+283 withdraw 15
+284 get_bal 10
+285 get_bal 6
+286 bid 859 16 374
+287 get_bal 1
+288 delegate 14 5
+289 bid 22 3 452
+290 get_bal 9
+291 send 5 7 93
+292 send 1 10 494
+293 send 8 1 316
+294 bid 847 8 720
+295 get_bal 5
+296 send 8 5 713
+297 get_bal 2
+298 bid 180 11 362
+299 send 4 3 689
+300 vote 7 2
+301 auction_end
+302 auction_end
+303 send 3 7 590
+304 delegate 13 7
+305 withdraw 2
+306 vote 20 2
+307 withdraw 8
+308 send 6 3 39
+309 delegate 8 15
+310 get_bal 6
+311 auction_end
+312 send 2 10 753
+313 vote 5 3
+314 withdraw 3
+315 withdraw 14
+316 get_bal 4
+317 vote 17 1
+318 send 2 8 342
+319 get_bal 3
+320 send 1 10 642
+321 delegate 13 8
+322 get_bal 7
+323 delegate 5 2
+324 auction_end
+325 delegate 19 7
+326 bid 561 8 125
+327 bid 56 6 744
+328 bid 171 7 300
+329 bid 845 6 177
+330 delegate 6 19
+331 auction_end
+332 withdraw 20
+333 bid 448 19 19
+334 vote 6 2
+335 delegate 16 17
+336 withdraw 15
+337 vote 14 2
+338 auction_end
+339 delegate 2 17
+340 auction_end
+341 vote 17 2
+342 auction_end
+343 bid 597 18 955
+344 bid 606 18 68
+345 withdraw 14
+346 bid 568 15 625
+347 bid 640 7 293
+348 delegate 9 3
+349 auction_end
+350 bid 398 8 71
+351 withdraw 20
+352 vote 17 1
+353 vote 20 2
+354 vote 11 3
+355 auction_end
+356 delegate 8 17
+357 bid 23 2 564
+358 delegate 19 12
+359 auction_end
+360 delegate 5 8
+361 auction_end
+362 auction_end
+363 vote 1 3
+364 auction_end
+365 delegate 2 10
+366 bid 417 7 648
+367 withdraw 3
+368 delegate 16 18
+369 delegate 2 11
+370 delegate 15 18
+371 delegate 19 17
+372 delegate 14 2
+373 delegate 14 10
+374 vote 4 3
+375 vote 1 2
+376 vote 17 3
+377 vote 10 3
+378 delegate 6 4
+379 delegate 17 2
+380 vote 9 1
+381 delegate 19 6
+382 delegate 7 20
+383 vote 18 1
+384 delegate 7 17
+385 delegate 11 12
+386 delegate 10 2
+387 delegate 5 10
+388 vote 11 1
+389 delegate 4 11
+390 vote 3 1
+391 vote 15 1
+392 vote 17 3
+393 vote 16 3
+394 delegate 6 4
+395 delegate 1 18
+396 delegate 11 10
+397 vote 7 2
+398 delegate 3 14
+399 vote 17 3
+400 vote 3 1

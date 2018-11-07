@@ -1,0 +1,71 @@
+
+Time Taken By Miner Threads:
+THREAD 0 = 12380 microseconds
+THREAD 1 = 12280 microseconds
+THREAD 2 = 11877 microseconds
+THREAD 3 = 12097 microseconds
+THREAD 4 = 12162 microseconds
+THREAD 5 = 12423 microseconds
+THREAD 6 = 12076 microseconds
+THREAD 7 = 12065 microseconds
+THREAD 8 = 12105 microseconds
+THREAD 9 = 12024 microseconds
+THREAD 10 = 11927 microseconds
+THREAD 11 = 11692 microseconds
+THREAD 12 = 11849 microseconds
+THREAD 13 = 11752 microseconds
+THREAD 14 = 11981 microseconds
+THREAD 15 = 11550 microseconds
+THREAD 16 = 11742 microseconds
+THREAD 17 = 11289 microseconds
+THREAD 18 = 8580 microseconds
+THREAD 19 = 11354 microseconds
+THREAD 20 = 11396 microseconds
+THREAD 21 = 11310 microseconds
+THREAD 22 = 11563 microseconds
+THREAD 23 = 11619 microseconds
+THREAD 24 = 7131 microseconds
+THREAD 25 = 11303 microseconds
+THREAD 26 = 11342 microseconds
+THREAD 27 = 10997 microseconds
+THREAD 28 = 11165 microseconds
+THREAD 29 = 2657 microseconds
+
+Time Taken By Validator Threads:
+THREAD 0 = 1546 microseconds
+THREAD 1 = 0 microseconds
+THREAD 2 = 1214 microseconds
+THREAD 3 = 0 microseconds
+THREAD 4 = 1182 microseconds
+THREAD 5 = 0 microseconds
+THREAD 6 = 1152 microseconds
+THREAD 7 = 1135 microseconds
+THREAD 8 = 0 microseconds
+THREAD 9 = 1106 microseconds
+THREAD 10 = 0 microseconds
+THREAD 11 = 1064 microseconds
+THREAD 12 = 299 microseconds
+THREAD 13 = 1025 microseconds
+THREAD 14 = 0 microseconds
+THREAD 15 = 987 microseconds
+THREAD 16 = 0 microseconds
+THREAD 17 = 944 microseconds
+THREAD 18 = 0 microseconds
+THREAD 19 = 0 microseconds
+THREAD 20 = 0 microseconds
+THREAD 21 = 0 microseconds
+THREAD 22 = 848 microseconds
+THREAD 23 = 0 microseconds
+THREAD 24 = 0 microseconds
+THREAD 25 = 0 microseconds
+THREAD 26 = 0 microseconds
+THREAD 27 = 0 microseconds
+THREAD 28 = 0 microseconds
+THREAD 29 = 0 microseconds
+THREAD 30 = 2.03188e-43 microseconds
+
+
+Average Time Taken by a Miner     Thread        = 11189.6 microseconds
+Average Time Taken by a Validator Thread        = 416.733 microseconds
+
+Total Average Time (Miner + Validator)  = 11606.3 microseconds

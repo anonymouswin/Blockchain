@@ -1,0 +1,18 @@
+#Problem 
+	"Coin Contract Using STM MVTO library Instrumentation for Concurrent Miner Execution."
+
+# Version
+	<< Version           1    >>
+	<< Coarse-Grain      Done >>
+	<< Fine-Grain        Done >>
+	<< Lock-Free         Done >>
+	<< TODO              Documentation & make file >>
+	
+# Last Modified
+	<< 27-08-2018, 08:40 PM >>
+
+# Content
+
+	1.< Coin.h >    :::: Header file defines <Coin Smart Contract> functions for both Miner (using STM MVTO Lib Instrumentaion) and Validator (Standerd Solidity Coin Contract function Converted into C++.
+	2.< STMMVTO>    :::: Directory Consists of <STM-MVTO> library function.
+	3.< README.md > :::: This File.
